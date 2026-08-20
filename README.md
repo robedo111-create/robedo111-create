@@ -12,8 +12,8 @@ Aplicación web full-stack con pruebas integradas para verificar flujo de usuari
 👉 [Ver aplicación en vivo](https://robedo111-create.github.io/frontend-limpio/frontend_mejorado.html)
 
 **Repositorios del proyecto:**
-* [Frontend](https://github.com/robedo111-create)
-* [API](https://github.com/robedo111-create)
+* [Frontend](https://github.com/robedo111-create/frontend-limpio)
+* [API](https://github.com/robedo111-create/mi-proyecto-apis)
 
 ---
 
