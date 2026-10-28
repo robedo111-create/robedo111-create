@@ -1,0 +1,67 @@
+Categoría;Atajo;Función
+BÁSICOS;Ctrl + N;Nuevo libro
+BÁSICOS;Ctrl + O;Abrir libro
+BÁSICOS;Ctrl + S;Guardar libro
+BÁSICOS;F12;Guardar como
+BÁSICOS;Ctrl + P;Imprimir
+BÁSICOS;Ctrl + W;Cerrar libro
+BÁSICOS;Ctrl + X;Cortar
+BÁSICOS;Ctrl + C;Copiar
+BÁSICOS;Ctrl + V;Pegar
+BÁSICOS;Ctrl + Alt + V;Pegado especial
+BÁSICOS;Ctrl + Z;Deshacer
+BÁSICOS;Ctrl + Y;Rehacer
+BÁSICOS;Ctrl + A;Seleccionar todo
+BÁSICOS;Ctrl + F;Buscar
+BÁSICOS;Ctrl + H;Reemplazar
+BÁSICOS;Ctrl + B;Negrita
+BÁSICOS;Ctrl + I;Cursiva
+BÁSICOS;Ctrl + U;Subrayado
+BÁSICOS;Ctrl + 1;Formato de celdas
+BÁSICOS;Ctrl + 5;Tachado
+NAVEGACIÓN;Ctrl + Inicio;Ir a A1
+NAVEGACIÓN;Ctrl + Fin;Ir al final
+NAVEGACIÓN;Ctrl + AvPág;Siguiente hoja
+NAVEGACIÓN;Ctrl + RePág;Hoja anterior
+NAVEGACIÓN;Ctrl + Flecha;Ir al final de región
+NAVEGACIÓN;Ctrl + Shift + Flecha;Seleccionar región
+NAVEGACIÓN;Alt + AvPág;Moverse pantalla a la derecha
+NAVEGACIÓN;Alt + RePág;Moverse pantalla a la izquierda
+NAVEGACIÓN;Ctrl + G;Ir a (ventana)
+NAVEGACIÓN;Ctrl + Espacio;Seleccionar columna
+NAVEGACIÓN;Shift + Espacio;Seleccionar fila
+EDICIÓN;Ctrl + ; (punto y coma);Insertar fecha actual
+EDICIÓN;Ctrl + Shift + ; (punto y coma);Insertar hora actual
+EDICIÓN;Ctrl + D;Rellenar hacia abajo
+EDICIÓN;Ctrl + R;Rellenar hacia la derecha
+EDICIÓN;Ctrl + E;Relleno Flash (Excel 2013+)
+EDICIÓN;Ctrl + T;Crear tabla
+EDICIÓN;Ctrl + K;Insertar hipervínculo
+EDICIÓN;Ctrl + Shift + L;Alternar filtros
+EDICIÓN;Ctrl + Shift + +;Insertar celdas/filas
+EDICIÓN;Ctrl + -;Eliminar celdas/filas
+EDICIÓN;Ctrl + Enter;Confirmar fórmula sin moverse
+EDICIÓN;Ctrl + Shift + Enter;Fórmula matricial
+EDICIÓN;F2;Editar celda
+EDICIÓN;Ctrl + ';Copiar fórmula de arriba
+EDICIÓN;Alt + =;Autosuma
+FORMATO;Ctrl + Shift + $;Formato moneda
+FORMATO;Ctrl + Shift + %;Formato porcentaje
+FORMATO;Ctrl + Shift + #;Formato fecha
+FORMATO;Ctrl + Shift + @;Formato hora
+FORMATO;Ctrl + Shift + &;Bordes exteriores
+FORMATO;Ctrl + Shift + _;Quitar bordes
+FORMATO;Ctrl + Shift + !;Formato número decimal
+FORMATO;Ctrl + Shift + ^;Formato exponencial
+FORMATO;Ctrl + 9;Ocultar filas
+FORMATO;Ctrl + 0;Ocultar columnas
+VENTANA;Ctrl + F1;Ocultar/mostrar cinta
+VENTANA;Ctrl + F2;Vista previa de impresión
+VENTANA;Ctrl + F4;Cerrar ventana actual
+VENTANA;Ctrl + F9;Minimizar ventana
+VENTANA;Ctrl + F10;Maximizar/Restaurar
+AVANZADOS;Ctrl + Shift + *;Seleccionar región actual
+AVANZADOS;Ctrl + Shift + O;Seleccionar comentarios
+AVANZADOS;Ctrl + Shift + P;Formato de fuente
+AVANZADOS;Alt + Enter;Salto de línea en celda
+AVANZADOS;Ctrl + Shift + Enter;Fórmula matricial
