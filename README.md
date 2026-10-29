@@ -6,29 +6,28 @@ Apasionado por asegurar la calidad, fiabilidad y rendimiento del software median
 
 ---
 
-## 🚀 Proyecto Destacado: Gestor de Posts con Autenticación JWT
-Aplicación web full-stack con pruebas integradas para verificar flujo de usuarios, sesiones y gestión de contenidos.
+## 🚀 Mis Proyectos y Evidencia de QA
 
-👉 [Ver aplicación en vivo](https://robedo111-create.github.io/frontend-limpio/frontend_mejorado.html)
+Aquí puedes encontrar cómo aplico mis habilidades de testing en proyectos reales:
 
-**Repositorios del proyecto:**
-* [Frontend](https://github.com/robedo111-create/frontend-limpio)
-* [API](https://github.com/robedo111-create/mi-proyecto-apis)
+### 1. Gestor de Posts con Autenticación JWT (QA & API Testing)
+*   **Proyectos base:** [mi-proyecto-apis](https://github.com/robedo111-create/mi-proyecto-apis) y [frontend-limpio](https://github.com/robedo111-create/frontend-limpio)
+*   **Mi trabajo de QA:** Diseñé casos de prueba para los endpoints (GET, POST, PUT, DELETE), validé la seguridad de los tokens JWT y documenté los hallazgos. *(Nota: La evidencia detallada de estos casos de prueba se subirá próximamente en este repositorio).*
+
+### 2. Juego de Colores Match (Pruebas Funcionales)
+*   **Proyecto base:** [juego-de-colores-match](https://github.com/robedo111-create/juego-de-colores-match)
+*   **Mi trabajo de QA:** Análisis de la lógica del juego (3 en línea, sonido, marcador) para la creación de un checklist de pruebas funcionales y de interfaz de usuario (UI).
 
 ---
 
 ## 🛠️ Habilidades y Tecnologías
-
-* **Pruebas y QA:** Diseño de Casos de Prueba, Planes de Prueba, Matrices de Prueba, Reportes de Bugs, Pruebas API (Postman), Pruebas Web y Móviles.
-* **Lenguajes:** Python, JavaScript, HTML5, CSS3
-* **Frameworks y Librerías:** FastAPI, Pandas, Matplotlib
-* **Bases de Datos:** PostgreSQL, SQLite
-* **Herramientas:** Git, GitHub, VS Code, Jira, Render, GitHub Pages
+*   **QA:** Diseño de Casos de Prueba, Planes de Prueba, Matrices de Prueba, Reportes de Bugs, Pruebas API (Postman), Pruebas Web y Móviles.
+*   **Automatización en progreso:** Python, JavaScript.
+*   **Bases de Datos:** PostgreSQL, SQLite.
+*   **Herramientas:** Git, GitHub, VS Code, Jira, Render.
 
 ---
 
 ## 📬 Contacto
-
-* **LinkedIn:** [linkedin.com/in/roberto-benitez-qa](https://linkedin.com/in/roberto-benitez-qa)
-* **GitHub:** [github.com/robedo111-create](https://github.com/robedo111-create)
-* **Correo:** roberto.benitez.d.qa@gmail.com
+*   **LinkedIn:** [Pon aquí el enlace a tu LinkedIn]
+*   **Email:** [Pon aquí tu correo]
