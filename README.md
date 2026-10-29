@@ -39,5 +39,5 @@ Aquí puedes revisar ejemplos reales de mi trabajo como QA Tester, incluyendo:
 ---
 
 ## 📬 Contacto
-*   **LinkedIn:** [roberto-benítez-domínguez](https://www.linkedin.com/in/roberto-benítez-domínguez-b1a5865a)
+*   **LinkedIn:** [Roberto Benítez Domínguez](https://www.linkedin.com/in/roberto-benítez-domínguez-b1a5865a)
 *   **Email:** roberto.benitez.d.qa@gmail.com
